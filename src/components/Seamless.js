@@ -3,14 +3,14 @@ import { React } from 'react';
 const Seamlessly = () => {
     return (
         <div className="w-full h-screen bg-green-300 pl-20 pr-20">
-            <div className="pt-40 text-blue-900 text-6xl mb-3.5 pl-20 pr-20">
+            <div className="pt-40 text-blue-700 text-6xl mb-3.5 pl-20 pr-20">
                 <p>
                     Seamless intergation.<br></br>
                   Thorough testing.<br></br> Better results.
                 </p>
             </div>
 
-            <div className="float-right pl-20 pr-20 text-xs text-blue-900 mr-60 leading-relaxed	tracking-widest">
+            <div className="float-right pl-20 pr-20 text-xs text-blue-700 mr-60 leading-relaxed	tracking-widest">
                 <p>
                     Our software testers are led by project managers and <br></br>
                     lead developers from the US, Canada and Europe with <br></br>
