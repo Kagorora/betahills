@@ -3,7 +3,7 @@ import Logo from '../assets/images/betahills_logo.png';
 
 const Header = () => {
     return (
-         <div className='h-16 w-full bg-green-300 pr-20	pl-20'>
+         <div className='h-16 w-full bg-green-300 pr-20	pl-20 border-b-2 border-blue-900'>
             <div className="logo float-left h-full flex justify-center items-center cursor-pointer text-blue-900 tracking-widest text-sm">
                 <img src={Logo} alt="logo" className="object-contain h-9 mr-4"/> betahills
             </div>
