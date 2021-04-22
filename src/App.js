@@ -4,6 +4,7 @@ import Home from './components/Home.js';
 import Information from './components/Information.js';
 import Seamlessly from './components/Seamless.js';
 import Testing from './components/Testing.js';
+import Partners from './components/Partners.js'
 
 const App = () => {
   return (
@@ -13,6 +14,7 @@ const App = () => {
     <Information />
     <Seamlessly />
     <Testing />
+    <Partners />
     </div>
   )
 }

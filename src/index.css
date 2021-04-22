@@ -20,7 +20,7 @@ body {
   color: #0100CD;
 }
 
-.header, .home, .Information, .Seamless, .Testing {
+.header, .home, .Information, .Seamless, .Testing, .partners {
   padding-right: 90px;
   padding-left: 90px;
 }
@@ -45,6 +45,14 @@ line-height: 29px;
 letter-spacing: 0.125em;
 text-align: left;
 color: #0100CD;
+}
+
+.logo-container{
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content:center;
 }
 
 code {
