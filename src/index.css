@@ -16,12 +16,25 @@ body {
   border-bottom: 1px solid #0100CD;
 }
 
-.header-list{
+.header-list, .main-text, .logo {
   color: #0100CD;
 }
 
-.logo{
-  color: #0100CD;
+.header, .home{
+  padding-right: 90px;
+  padding-left: 90px;
+}
+
+.home-blue-btn{
+  background-color: #0100CD;
+  height: 49px;
+  width: 177px;
+  /* font-family: Roboto; */
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+letter-spacing: 0.125em;
+color: #FFFFFF;
 }
 
 code {

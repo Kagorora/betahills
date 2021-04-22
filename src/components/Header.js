@@ -4,7 +4,7 @@ import '../index.css';
 
 const Header = () => {
     return (
-         <div className='header h-16 w-full bg-green-300 pr-20	pl-20 border-blue-900'>
+         <div className='header h-16 w-full bg-green-300 border-blue-900'>
             <div className="logo float-left h-full flex justify-center items-center cursor-pointer text-blue-700 tracking-widest text-sm">
                 <img src={Logo} alt="logo" className="object-contain h-9 mr-4"/> betahills
             </div>
