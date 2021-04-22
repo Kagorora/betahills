@@ -23,8 +23,6 @@ Betahills Information website
 
 ### Deployment 🚀
 
-https://amazing-hoover-aff01e.netlify.app/
-
 # Author
 
 Maxime Kagorora

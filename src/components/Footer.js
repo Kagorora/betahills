@@ -1,5 +1,4 @@
 import { React } from 'react';
-import Logo from '../assets/images/betahills_logo.png';
 import '../index.css';
 
 const Footer = () => {
