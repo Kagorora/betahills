@@ -2,7 +2,7 @@ import React from 'react';
 
 const Information = () => {
     return (
-        <div className="Information bg-white h-screen w-full">
+        <div className="Information bg-white h-auto w-full pb-40">
             <div className="header-list pt-40 text-6xl mb-9 w-3/5">
                 <p>
                     Our expert testers

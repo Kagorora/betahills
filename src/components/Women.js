@@ -3,7 +3,7 @@ import React from 'react';
 const Women = () => {
     return (
         <div className="Information bg-white h-screen w-full">
-            <div className="header-list pt-40 text-6xl mb-9 w-3/5">
+            <div className="header-list pt-40 text-6xl mb-16 w-7/12">
                 <p>We empower women to pursue careers in technology.</p>
             </div>
 
