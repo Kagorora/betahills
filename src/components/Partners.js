@@ -14,13 +14,13 @@ const Partners = () => {
                 </div>
 
                 <div className="w-2/3 ml-auto">
-                    <ul className="flex flex-row w-full h-full grid grid-cols-3 gap-4">
-                        <li className="logo-container mr-36 pb-32"><img className="object-contain" src={CoffeeCircle} alt="CoffeeCircle logo" /></li>
-                        <li className="logo-container mr-36"><img className="object-contain" src={GlobalExcel} alt="GlobalExcel logo" /></li>
-                        <li className="logo-container mr-36"><img className="object-contain" src={Jibu} alt="Jibu logo" /></li>
-                        <li className="logo-container mr-36"><img className="object-contain" src={Dalia} alt="Dalia logo" /></li>
-                        <li className="logo-container mr-36"><img className="object-contain" src={Coformatique} alt="Coformatique logo" /></li>
-                         <li className="logo-container mr-36"><img className="object-contain" src={FOLKDAYS} alt="FOLKDAYS logo" /></li>
+                    <ul className="flex flex-row w-full h-full grid grid-cols-3 gap-4 mb-30">
+                        <li className="logo-container mr-32"><img className="object-contain" src={CoffeeCircle} alt="CoffeeCircle logo" /></li>
+                        <li className="logo-container mr-32"><img className="object-contain" src={GlobalExcel} alt="GlobalExcel logo" /></li>
+                        <li className="logo-container mr-32"><img className="object-contain" src={Jibu} alt="Jibu logo" /></li>
+                        <li className="logo-container mr-32"><img className="object-contain" src={Dalia} alt="Dalia logo" /></li>
+                        <li className="logo-container mr-32"><img className="object-contain" src={Coformatique} alt="Coformatique logo" /></li>
+                         <li className="logo-container mr-32"><img className="object-contain" src={FOLKDAYS} alt="FOLKDAYS logo" /></li>
                     </ul>
                 </div>
         </div>
