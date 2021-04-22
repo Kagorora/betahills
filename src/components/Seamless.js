@@ -2,7 +2,7 @@ import { React } from 'react';
 
 const Seamlessly = () => {
     return (
-        <div className="Seamless w-full h-screen bg-green-300">
+        <div className="Seamless w-full h-screen">
             <div className="header-list pt-40 text-6xl w-1/2 ">
                 <p>
                     Seamless intergation.

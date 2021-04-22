@@ -16,13 +16,23 @@ body {
   border-bottom: 1px solid #0100CD;
 }
 
+.footer{
+  background-color: #0100CD;
+  color: #FFFFFF;
+}
+
 .header-list, .main-text, .logo {
   color: #0100CD;
 }
 
-.header, .home, .Information, .Seamless, .Testing, .partners {
+.header, .home, .Information, .Seamless, .Testing, .partners, .footer {
   padding-right: 90px;
   padding-left: 90px;
+}
+
+.header, .home, .Seamless, .partners{
+  background-color: #96D2AA;
+
 }
 
 .home-blue-btn{
@@ -53,6 +63,12 @@ color: #0100CD;
   display: flex;
   align-items: center;
   justify-content:center;
+}
+
+.more-blue-btn {
+  background-color: #0100CD;
+  padding: 10px 31px;
+  margin-top: 62px;
 }
 
 code {

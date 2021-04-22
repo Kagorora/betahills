@@ -8,7 +8,7 @@ import GlobalExcel from '../assets/images/GlobalExcel_white11 1.png';
 
 const Partners = () => {
     return (
-        <div className="partners w-full h-auto bg-green-300 pt-60 pb-60">
+        <div className="partners w-full h-auto pt-60 pb-60">
                 <div className="header-list text-6xl w-1/2 mb-32">
                     <p className="h-full w-full">We have successfully partnered with a variety of companies from all over the world.</p>
                 </div>
