@@ -1,9 +1,9 @@
 # Betahills
 
-#### Betahills Landing page
+#### Betahills website
 
 ## Description
-Betahills Landing Page
+Betahills Information website
 
 ## Technologies used :gear:
 - React JS
@@ -23,7 +23,12 @@ Betahills Landing Page
 
 ### Deployment 🚀
 
+https://amazing-hoover-aff01e.netlify.app/
 
 # Author
 
 Maxime Kagorora
+
+
+# Done On:
+April, 22nd 2021
