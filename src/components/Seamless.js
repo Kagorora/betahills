@@ -2,26 +2,26 @@ import { React } from 'react';
 
 const Seamlessly = () => {
     return (
-        <div className="w-full h-screen bg-green-300 pl-20 pr-20">
-            <div className="pt-40 text-blue-700 text-6xl mb-3.5 pl-20 pr-20">
+        <div className="Seamless w-full h-screen">
+            <div className="header-list pt-40 text-6xl w-1/2 ">
                 <p>
-                    Seamless intergation.<br></br>
-                  Thorough testing.<br></br> Better results.
+                    Seamless intergation.
+                  Thorough testing. Better results.
                 </p>
             </div>
 
-            <div className="float-right pl-20 pr-20 text-xs text-blue-700 mr-60 leading-relaxed	tracking-widest">
+            <div className="w-1/2 ml-auto information-text">
                 <p>
-                    Our software testers are led by project managers and <br></br>
-                    lead developers from the US, Canada and Europe with <br></br>
-                    more than 10 years of experience in QA and software <br></br>
-                    testing. This guarantees clear communication and a <br></br>
-                    team with an in-depth understanding of your business <br></br>
-                    and testing needs. After an initial assessment, we <br></br>
-                    tailor our workflow to seamlessly integrate into your <br></br>
-                    current processes. We can use your preferred tools and <br></br>
-                    adapt our services based on your communication <br></br>
-                    models, timeline, and more.<br></br>
+                    Our software testers are led by project managers and 
+                    lead developers from the US, Canada and Europe with 
+                    more than 10 years of experience in QA and software 
+                    testing. This guarantees clear communication and a 
+                    team with an in-depth understanding of your business 
+                    and testing needs. After an initial assessment, we 
+                    tailor our workflow to seamlessly integrate into your 
+                    current processes. We can use your preferred tools and 
+                    adapt our services based on your communication 
+                    models, timeline, and more.
                 </p>
             </div>
 
