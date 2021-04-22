@@ -9,6 +9,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+}
+
+.header{
+  border-bottom: 1px solid #0100CD;
+}
+
+.header-list{
+  color: #0100CD;
+}
+
+.logo{
+  color: #0100CD;
 }
 
 code {
