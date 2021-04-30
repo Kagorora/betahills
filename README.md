@@ -21,7 +21,8 @@ Betahills Information website
 1. Run `npm install` to install all dependencies.
 2. Run `npm run start` to run the app. 
 
-### Deployment 🚀
+### Live Demo 🚀 
+https://musing-yalow-99a83c.netlify.app/
 
 # Author
 
